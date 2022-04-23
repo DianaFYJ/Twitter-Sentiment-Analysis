@@ -58,6 +58,3 @@ To reproduce, files should be placed or saved in the following structure.
 
 
 More specific comments are added codes by line.
-
-
-### Author: Yuanjun Feng
